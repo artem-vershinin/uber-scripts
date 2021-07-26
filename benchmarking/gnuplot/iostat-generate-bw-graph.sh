@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 inputFile=$1
 diskDevice=${2:-sda}
